@@ -1,8 +1,19 @@
-div {
-  height: 300px;
-  width: 400px;
-  background-color: #ee3e80;}
-p {
-  height: 75%;
-  width: 75%;
-  background-color: #e1ddda;}  
+
+body {
+	width:750px;
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;}
+h1{
+	position: fixed;
+
+	top: 0px;
+	left: 5px;
+	padding: 10px;
+	margin: 0px;
+	width: 100%;
+	background-color: #efefef;
+	
+p{
+	width: 450px;
+}
+
