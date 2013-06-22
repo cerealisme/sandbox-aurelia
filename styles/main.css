@@ -1,19 +1,25 @@
 
-body {
-	width:750px;
-	font-family: Arial, Verdana, sans-serif;
-	color: #665544;}
-h1{
-	position: fixed;
+body{
+	width: 960px;
+	margin: auto;}
+	#content {
+		overflow: auto;
+		height: 100%;}
+    #nav, #feature, #footer {
+    	background-color: #efefef;
+    	padding: 10px;
+    	margin: 10px;}
+    .column1, .column2, .column3 {
+    	background-color: #efefef;
+    	width: 300px;
+    	float: left;
+    	margin: 10px;}
+    li {
+    	display: inline;
+    	padding: 5px;}	
 
-	top: 0px;
-	left: 5px;
-	padding: 10px;
-	margin: 0px;
-	width: 100%;
-	background-color: #efefef;
-	
-p{
-	width: 450px;
-}
+
+
+    
+
 
